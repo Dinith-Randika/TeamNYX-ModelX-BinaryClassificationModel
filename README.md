@@ -191,6 +191,3 @@ As long as the dataset path is updated correctly, the notebook should run withou
 
 ---
 
-## 7. Contact
-
-If there are questions about running the notebook or about any modeling choice, please use the contact channel provided in the competition instructions.
