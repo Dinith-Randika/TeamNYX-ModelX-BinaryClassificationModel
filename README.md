@@ -1,4 +1,3 @@
-"# TeamNYX-ModelX-BinaryClassificationModel" 
 # TeamNYX-ModelX-BinaryClassificationModel
 
 # Dementia Risk Prediction From Non Medical Factors
